@@ -6,5 +6,9 @@
 ## Course 2 - Programming with JavaScript:
 ![Alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Q3JGHTMC2EW3/CERTIFICATE_LANDING_PAGE~Q3JGHTMC2EW3.jpeg "Course 2")
 
+## Course 3 - Version Control:
+![Alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SFXBR9UPLHXZ/CERTIFICATE_LANDING_PAGE~SFXBR9UPLHXZ.jpeg "Course 3")
+
+
 ## Completion Certficate:
 ## Pending...
