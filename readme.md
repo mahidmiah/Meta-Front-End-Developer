@@ -9,6 +9,9 @@
 ## Course 3 - Version Control:
 ![Alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SFXBR9UPLHXZ/CERTIFICATE_LANDING_PAGE~SFXBR9UPLHXZ.jpeg "Course 3")
 
+## Course 4 - HTML and CSS in depth:
+![Alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GRSY3YK4TBJ2/CERTIFICATE_LANDING_PAGE~GRSY3YK4TBJ2.jpeg "Course 4")
+
 
 ## Completion Certficate:
 ## Pending...
