@@ -12,6 +12,10 @@
 ## Course 4 - HTML and CSS in depth:
 ![Alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GRSY3YK4TBJ2/CERTIFICATE_LANDING_PAGE~GRSY3YK4TBJ2.jpeg "Course 4")
 
+## Course 5 - React Basics:
+![Alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~68PFJGVFJAYE/CERTIFICATE_LANDING_PAGE~68PFJGVFJAYE.jpeg "Course 4")
+
+
 
 ## Completion Certficate:
 ## Pending...
