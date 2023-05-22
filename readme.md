@@ -15,6 +15,12 @@
 ## Course 5 - React Basics:
 ![Alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~68PFJGVFJAYE/CERTIFICATE_LANDING_PAGE~68PFJGVFJAYE.jpeg "Course 4")
 
+## Course 6 - Advanced React:
+![Alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UDF5EA5D8U7N/CERTIFICATE_LANDING_PAGE~UDF5EA5D8U7N.jpeg "Course 4")
+
+## Course 7 - Principles of UX/UI Design:
+![Alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~LUQJY9VWDZKZ/CERTIFICATE_LANDING_PAGE~LUQJY9VWDZKZ.jpeg "Course 4")
+
 
 
 ## Completion Certficate:

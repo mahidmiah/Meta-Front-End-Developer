@@ -1,0 +1,28 @@
+Customers are having trouble ordering food for delivery and booking a table
+Customer centered
+
+table reservation element
+interactive element
+
+data gathered from customer while they use the website
+
+number of diners
+date and time
+special requirements
+
+customer details:
+Phone number
+email address
+cred card details
+
+confimation on screen and via email
+
+
+
+
+
+
+
+
+
+USER RESEARCH
